@@ -1,4 +1,4 @@
-package com.udemy.compose.twitterclone
+package com.moure.challenges.twitterclone
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.udemy.compose.twitterclone.ui.theme.TwitterCloneTheme
+import com.moure.challenges.twitterclone.ui.theme.TwitterCloneTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

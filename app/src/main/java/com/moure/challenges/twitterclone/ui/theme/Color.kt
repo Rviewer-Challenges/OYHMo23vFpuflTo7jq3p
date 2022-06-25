@@ -1,4 +1,4 @@
-package com.udemy.compose.twitterclone.ui.theme
+package com.moure.challenges.twitterclone.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.udemy.compose.twitterclone
+package com.moure.challenges.twitterclone
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
